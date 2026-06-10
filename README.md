@@ -183,7 +183,8 @@ sudo systemctl start freellmapi
 
 
 ## 申请的 API key 填写对应的 Add a provider key 添加完API后然后在Configured providers点击Remove测试：绿色通过正常；红色API key不可用。
-<img width="1420" height="880" alt="image" src="https://github.com/user-attachments/assets/83c01564-6091-4c12-afc2-c1f7e0fe40c9" />
+<img width="1304" height="837" alt="image" src="https://github.com/user-attachments/assets/3155fee9-02e1-47d4-831f-18b304c46ccd" />
+
 
 ## 接入HERMES
 <img width="973" height="482" alt="6db92d48-b7f4-4097-bd7f-dddf67174b88" src="https://github.com/user-attachments/assets/77ff3d18-0ddb-4685-ad05-ad99c85a5af5" />
