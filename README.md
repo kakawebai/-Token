@@ -185,3 +185,20 @@ sudo systemctl start freellmapi
 ## 申请的 API key 填写对应的 Add a provider key 添加完API后然后在Configured providers点击Remove测试：绿色通过正常；红色API key不可用。
 <img width="1420" height="880" alt="image" src="https://github.com/user-attachments/assets/83c01564-6091-4c12-afc2-c1f7e0fe40c9" />
 
+## 接入HERMES
+<img width="973" height="482" alt="6db92d48-b7f4-4097-bd7f-dddf67174b88" src="https://github.com/user-attachments/assets/77ff3d18-0ddb-4685-ad05-ad99c85a5af5" />
+<img width="744" height="278" alt="d875ea62-29eb-4b9b-b47e-c7bc66d21a1e" src="https://github.com/user-attachments/assets/aed89d4e-d43f-434c-b5f2-ccab09d77365" />
+<img width="979" height="481" alt="b4a30c5c-aece-4eb3-b6cc-ba7446312cf2" src="https://github.com/user-attachments/assets/48cd4b7d-8dbf-4f65-8a8f-5b79955e2c53" />
+<img width="979" height="478" alt="da3d3797-e044-4dfe-a548-50f7d3f02522" src="https://github.com/user-attachments/assets/b2ec0f66-c2cd-4542-867e-2358e83322db" />
+<img width="979" height="481" alt="2a811539-e2d0-46a6-b75e-0865cc966bc9" src="https://github.com/user-attachments/assets/d44705d9-e122-4019-a4e7-25c40b5205f3" />
+<img width="946" height="455" alt="b43ede8d-9553-4b51-b44b-dd54b85fe63e" src="https://github.com/user-attachments/assets/a9c44434-6f31-4aa7-98c1-e5e3a521cde0" />
+
+
+
+
+
+
+
+
+
+
